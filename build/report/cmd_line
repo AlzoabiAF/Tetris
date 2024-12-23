@@ -1,1 +1,0 @@
-genhtml -o build/report build/test.info
